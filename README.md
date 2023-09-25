@@ -26,8 +26,7 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladimir127001&theme=bear" width=750  alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vladimir127001&show_icons=true&theme=transparent" width=750  alt="stats graph1"/>
-    <img src="https://komarev.com/ghpvc/?username=vladimir127001&color=green" width=150  alt="stats graph2"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=vladimir127001&color=green" width=150  alt="stats graph2"/>
 </div>
 
 ###
